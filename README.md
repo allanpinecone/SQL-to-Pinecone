@@ -8,6 +8,5 @@ export PINECONE_API_KEY="pcsk_XXXXXXXXXXXXXXXXXXXX"
 export OPENAI_API_KEY="sk-XXXXXXXXXXXXXXXXXXXX"
 
 Install pip dependencies: pip install --upgrade pinecone openai sqlite-utils
-  (might be pip3)
 
 Then run the demo app: "python3 demo.py"
